@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Ale\CODIGOS\DIO-Orangetech\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3834168239.index
+3990511208.index
