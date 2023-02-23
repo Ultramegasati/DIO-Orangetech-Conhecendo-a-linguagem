@@ -12,6 +12,12 @@ package CalculadoraUtilizandoTags;
 * @since   01/01/2022
 */
 public class Calculadora {
+	public static void main (String args[]) {
+		System.out.println("Somente método");
+	}
+	
+		
+	
     /**
    * Este método é utilizado para somar dois números inteiros
    * @param numeroUm este é o primeiro parâmetro do método
@@ -21,4 +27,7 @@ public class Calculadora {
     public int somar(int numeroUm, int numeroDois) {
         return  numeroUm + numeroDois;
     }
+	
+	
+    
 }
