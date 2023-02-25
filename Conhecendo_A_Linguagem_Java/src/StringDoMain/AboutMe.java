@@ -2,10 +2,10 @@ package StringDoMain;
 
 public class AboutMe {
 
-	public static void main(String[] args) {
+	public static void main(String [] args) {
 
 		String nome = args [0];
-		String sobrenome = args[1];
+		String sobrenome = args [1];
 		int idade = Integer.valueOf(args[2]);
 		double altura = Double.valueOf(args[3]);
 		
@@ -17,6 +17,8 @@ public class AboutMe {
 		 * na pasta bin, java AboutMe
 		 * digitar parâmetros com espaços
 		 *  ex: Rafael Marques 23 1.70
+		 *  
+		 *  Para executar via terminal não pode ter package
 		 * 
 		 */
 		
